@@ -26,6 +26,6 @@ Feel free to reach out to me for collaboration or inquiries!
 
 ## 🌐 Explore My Portfolio  
 Check out my live portfolio showcasing my projects:  
-[Visit My Portfolio](https://afl-2-javin-erasmus-clementino-jvylz0vs5-javinpros-projects.vercel.app/)  
+[Visit My Portfolio](https://afl-2-javin-erasmus-clementino.vercel.app/  
 
 Thank you for visiting my portfolio! Let’s create something amazing together.  
